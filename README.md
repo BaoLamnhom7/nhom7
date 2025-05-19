@@ -3,7 +3,7 @@
 
 ## 🎥 Video Demo
 
- ![Demo Video](./video/videodemo)
+ ![Demo Video](./video/videodemo.mp4)
 
 ---
 
