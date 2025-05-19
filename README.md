@@ -22,28 +22,17 @@
 ### 🔥 Ảnh Firebase
 | Dữ liệu Firebase | Cấu hình Rules |
 |:----------------|:---------------|
-| ![Firebase Data](./hinhanh/Firebase1.png) | ![Firebase Rules](./hinhanh/firebase2.png) |
+| ![Firebase Data](./hinhanh/firebase1.png) | ![Firebase Rules](./hinhanh/firebase2.png) |
 
 ---
 
-### 💻 Ảnh Code
-| Code 1 | Code 2 | Code 3 |
-|:-------|:-------|:-------|
-| ![Code 1](./Image/code1.png) | ![Code 2](./Image/code2.png) | ![Code 3](./Image/code3.png) |
-
----
 
 ### 📱 Ảnh Thiết kế App
-| Thiết kế Blocks | Thiết kế UI |
+| Thiết kế Blocks | Thiết kế App |
 |:----------------|:------------|
-| ![Blocks](./Image/Blocks.png) | ![Designer](./Image/Designer.png) |
+| ![Blocks](./hinhanh/block.png) | ![Designer](./hinhanh/biuld.png) |
 
----
 
-### 📱 Ảnh App thực tế
-![App](./Image/app.jpg)
-
----
 
 ## 🛠️ Hướng dẫn cài đặt:
 
