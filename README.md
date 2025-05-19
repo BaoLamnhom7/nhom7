@@ -3,17 +3,10 @@
 
 ## 🎥 Video Demo
 
- ![Demo Video](./VideoDemo/videoDemo.gif)
+ ![Demo Video](./video/videodemo-ezgif.com-video-to-gif-converter)
 
 ---
 
-## 👨‍💻 Nhóm thực hiện
-
-- **Trần Văn Đạt**
-- **Bùi Thị Giang**
-- **Nguyễn Trung Sơn**
-
----
 
 ## 📌 Tính năng chính
 
@@ -29,7 +22,7 @@
 ### 🔥 Ảnh Firebase
 | Dữ liệu Firebase | Cấu hình Rules |
 |:----------------|:---------------|
-| ![Firebase Data](./Image/Firebase_Data.png) | ![Firebase Rules](./Image/firebase_rules.png) |
+| ![Firebase Data](./hinhanh/Firebase1.png) | ![Firebase Rules](./hinhanh/firebase2.png) |
 
 ---
 
