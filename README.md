@@ -3,7 +3,7 @@
 
 ## 🎥 Video Demo
 
- ![Demo Video](./video/videodemo-ezgif.com-video-to-gif-converter)
+ ![Demo Video](./video/videodemo)
 
 ---
 
