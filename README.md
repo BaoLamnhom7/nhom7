@@ -59,8 +59,3 @@
 - Import file thiết kế blocks hoặc làm theo demo ảnh `Blocks.png`
 - Kết nối API Firebase và control thiết bị
 
-### 📥 Clone project từ GitHub
-
-```bash
-git clone https://github.com/trandat2004/IoTControlApp.git
-```
