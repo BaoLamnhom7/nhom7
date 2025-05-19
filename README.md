@@ -3,7 +3,7 @@
 
 ## 🎥 Video Demo
 
- ![Demo Video](./video/videodemo.mp4)
+ ![Demo Video](https://youtu.be/uiAdNL3WcmA)
 
 ---
 
